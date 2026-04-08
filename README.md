@@ -1,7 +1,5 @@
 # Revolutionary Journalism in Colonial Bengal: A Study of Kazi Nazrul Islam’s Dhumketu and Anti-British Ideology
 
-# 📄 Parts of a Research Paper (Professional Structure)
-
 ## 1. Title Page
 - Paper title  
 - Author’s name  
